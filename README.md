@@ -1,5 +1,5 @@
 # React rich text editor - built using CKEditor 5
-<img width="1434" alt="Screenshot 2023-11-08 at 9 38 18 PM" src="https://github.com/premsagar1997/react-ckeditor5/assets/76701517/b5160cd9-beee-4e4e-97e8-cdf3b47d96c8">
+<img width="1429" alt="Screenshot 2023-11-08 at 9 42 43 PM" src="https://github.com/premsagar1997/react-ckeditor5/assets/76701517/7d738e4a-de29-4a6e-93c0-1bee3fc80960">
 
 ## Available Scripts
 
